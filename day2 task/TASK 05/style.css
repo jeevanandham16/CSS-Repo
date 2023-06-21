@@ -1,0 +1,39 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body{
+    background-color: grey;
+    font-family: 'Quicksand', sans-serif;
+
+}
+hr{
+    background-color: red;
+    width: 100px;
+    height: 1px;
+}
+h1{
+    text-align: center;
+}
+div{
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    height: 250px;
+    width: 800px;
+    text-align: justify;
+}
+.fa-hashtag{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.fa-envelope{
+    margin-left: 40px;
+}
+a{
+    color: red;
+    font-size:medium ;
+}
+p{
+    font-size: x-large;
+}

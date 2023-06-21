@@ -1,0 +1,62 @@
+body{
+    background-color: darkblue;
+}
+div{
+    background-color: white;
+    max-width: 75%;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 120px;
+    border-radius: 30px;
+}
+button{
+    height: 30px;
+    width: 120px;
+}
+#fbicon{
+    background-color: blue;
+    margin-left: 80px;
+    border-color: blue;
+    border-radius: 10px;
+}
+#twiffericon{
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+}
+#mailicon{
+    background-color: red;
+    margin-left: 20px;
+    border-color: red;
+    border-radius: 10px;
+}
+i{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    margin-left: 50px;
+}
+input{
+    margin-left: 80px;
+    height: 30px;
+    width: 360px;
+}
+label{
+    margin-left: 80px;
+}
+#loginbutton{
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    margin-left: 120px;
+    width: 290px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}

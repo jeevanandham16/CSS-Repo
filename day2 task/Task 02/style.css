@@ -1,0 +1,23 @@
+body{
+    background-color: purple;
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+div{
+    height:300px;
+    width:250px;
+    background-color: white;
+    text-align: center;
+    margin: 50px;
+}
+i{
+    margin-top: 30px;
+    font-size: 100px;
+
+}
+img{
+    margin-top: 25px;
+}
