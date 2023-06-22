@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
+h1{
+    margin-left: 40px;
+}
+ul{
+    margin-left: 40px;
+}
+h3{
+    margin-left:40px ;
+}
