@@ -1,0 +1,15 @@
+p::before{
+    content: "HTML";
+    color: red;
+    font-size: 30PX;
+}
+
+p::after{
+    content: "BUTTON";
+    color: red;
+    font-size: 30PX;
+}
+p{
+    font-size: 17px;
+    width: 600px;
+}

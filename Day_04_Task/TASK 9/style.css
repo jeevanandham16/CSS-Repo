@@ -1,0 +1,18 @@
+p:nth-child(odd){
+ background-color: rgb(194, 163, 255);
+}
+
+p:nth-child(even){
+    background-color: rgb(255, 243, 163);
+}
+
+p{
+    margin: 0;
+    padding: 5px;
+    color: rgb(55, 55, 55);
+    width: 600px;
+}
+body{
+    margin-left: 32%;
+    margin-top: 10%;
+}

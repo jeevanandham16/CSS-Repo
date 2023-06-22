@@ -1,0 +1,11 @@
+p:nth-child(even){
+    color: brown;
+}
+
+p:nth-child(odd){
+    color: rgb(255, 213, 0);
+}
+
+body{
+    font-weight: 700;
+}
